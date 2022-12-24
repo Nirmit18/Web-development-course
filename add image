@@ -1,0 +1,5 @@
+ //it doesn't have closing attribute & to paste image save the image from google to the same folder where ur html file is saved and rename the image to .jpeg extension
+ 
+ <img src="nirmit.jpeg.jpeg"  width="200"   height="200"  >
+       
+      
