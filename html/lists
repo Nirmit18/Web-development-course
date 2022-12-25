@@ -1,0 +1,26 @@
+
+                <!------------------------LIST-------------------------->
+    
+    
+    ol=IT STANDS FOR ORDERED LIST IT ARRANGES ELEMENTS IN NUMERICAL FORM AS 1,2,3,.
+    
+    
+    
+    <ol>
+        <li>name:NIRMIT
+         <li>age:19</li> 
+         <li> weight:58</li>
+    </ol>
+    
+    
+    
+    
+    
+         ul=IT STANDS FOR UNORDERED LIST IT ARRANGES IMAGES IN BULLET FORM
+        <ul>
+            <li>name:nirmit</li>
+            <li>age:19</li>
+            <li>weight:58</li>
+        </ul>
+   
+ 
