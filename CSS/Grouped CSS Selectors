@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+
+            h3,p{
+                color:chocolate;
+                
+            }
+        
+    </style>
+</head>
+<body>
+
+    <h1>hello&#128075 </h1>
+    <h3>Grouped CSS Selectors..</h3>
+    <ul>
+        <li>
+            <p>In grouped CSS Selectors you can add same effects to multiple selectors by adding commas in the style elemet</p>
+        </li>
+    </ul>
+    
+</body>
+</html>
