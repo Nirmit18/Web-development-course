@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+ 
+            div p{
+                color: blueviolet;
+            }
+
+        
+    </style>
+</head>
+<body>
+
+  
+    <div>
+        <p>
+            Make this blue..we need to go to element path to bring the changes..
+        </p>
+    </div>
+    
+
+
+</body>
+</html>
