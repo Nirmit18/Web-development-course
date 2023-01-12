@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+
+
+            body{
+                background-image: url("nirmit.jpeg.jpeg");
+                background-size: cover;
+                background-color: floralwhite;
+            }
+            
+
+        
+    </style>
+</head>
+<body>
+
+
+
+</body>
+</html>
