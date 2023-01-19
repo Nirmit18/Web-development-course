@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <link rel="shortcut icon" href="globe.png" type="image/png">
+    <style>
+
+
+        
+            #p4{
+                height: 200px;
+                width: 200px;
+                border: 2px solid black;
+                margin: auto;
+                background-image: url("nirmit.jpeg.jpeg");
+                background-size: 100%;
+                border-radius: 0% 50%;
+                box-shadow: 2px 2px 15px grey;
+
+            }
+        
+           
+           
+
+        
+    </style>
+</head>
+<body>
+
+   
+   
+ 
+
+      <div>
+       <p id="p4">  </p>
+      </div>
+             
+     
+
+        
+
+</body>
+</html>
