@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <link rel="shortcut icon" href="globe.png" type="image/png">
+    <style>
+
+
+       
+
+            .floating-image{
+                margin: 10px;
+                float: right;
+                border: 2px solid black;
+                box-shadow: 5px 10px 20px black;
+            }
+        
+           
+           
+
+        
+    </style>
+</head>
+<body>
+
+   
+
+       <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse a unde libero minima quos ratione, ad adipisci qui, blanditiis facere enim ullam fugiat perferendis in atque dolor eum obcaecati ducimus.</p>
+       <img src="nirmit.jpeg.jpeg" width="200" height="200" class="floating-image">
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta consequuntur ipsum dolores laborum rerum similique esse quos. Tenetur nostrum repellat odit, atque ex in commodi earum incidunt sint quasi ea.</p>
+       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum quidem, soluta nam fugit doloribus numquam ab sint, culpa veritatis provident corrupti facere cumque! Sit nisi debitis aspernatur perspiciatis mollitia nostrum.</p>
+       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam non praesentium explicabo obcaecati eos ipsum commodi! Itaque repellendus veritatis nam optio velit eligendi? Dignissimos ad fuga enim nobis. Suscipit, adipisci?</p>
+       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur autem illo rem id officiis. Cupiditate minima consectetur error neque mollitia vel itaque. Mollitia optio quidem sed maiores odio, dolorum eveniet!</p>
+
+        
+
+</body>
+</html>
