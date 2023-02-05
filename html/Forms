@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+   
+#d1 {
+    background-color: gainsboro;
+    width: 614px;
+    height: 200px;
+    border: 2px solid grey;
+    margin: 182px 200px 100px 400px;
+}
+input[type=button] {
+    width: 100%;
+    margin-top: 94px;
+    height: 26px;
+}
+input[type=subject] {
+    margin-left: 91px;
+    width: 400px;
+    height: 17px;
+}
+#d2 {
+    margin-left: 28px;
+    margin-top: 0px;
+    display: inline-block;
+}
+  </style>
+</head>
+<body>
+  <div id="d1">
+    <form>
+      <div id="d2">
+        <label for="name">Enter your name:</label>
+        <input type="text" id="name" required>
+      </div>
+    
+
+     <label for="mail">Enter your email:</label>
+     <input type="email" id="mail" required>
+     <br>
+     <br>
+     <br>
+
+     <label for="write"></label>
+     <input type="subject" id="write" required>
+
+     <input type="button" value="Submit">
+
+    </form>
+  </div>
+</body>
+</html>
