@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+     <title>Document</title>
+     <style>
+             #d1{
+            /* border: 5px solid black; */
+            width: 200px;
+            height: 200px;
+            position: relative; 
+          }
+            #d2{
+            /* border: 2px solid red; */
+            width: 50%;
+            height: 50%;
+            position: absolute;
+            background-color: green;
+            left: 50%;
+            }   
+    </style>
+</head>
+<body>
+    <div id="d1">
+        <div id="d2">
+            toy boy
+        </div>
+    </div>
+</body>
+</html>
