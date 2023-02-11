@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+ #box{
+        width:300px;
+        height:300px;
+        border:10px solid black;
+        margin: auto;
+       margin-top: 100px;
+       position: relative;
+       background-color: black;
+       opacity: 7;
+    }
+    #box::before {
+    content: '';
+    display: block;
+    border: 10px solid red;
+    width: 100%;
+    position: absolute;
+    height: 102%;
+    z-index: -1;
+    top: -30px;
+    left: -30px;
+}
+    </style>
+   
+</head>
+<body>
+    <div id="box"></div>
+</body>
+</html>
