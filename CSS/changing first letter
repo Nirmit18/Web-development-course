@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <style>
+    p::first-letter{
+        font-size: 50px;
+        float: left;
+        /* padding-left: 20px; */
+    }
+   </style>
+</head>
+<body>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit temporibus modi iste quo distinctio ratione dicta, voluptates possimus doloribus mollitia autem ex. Libero fugiat alias nostrum omnis quasi beatae corporis.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit temporibus modi iste quo distinctio ratione dicta, voluptates possimus doloribus mollitia autem ex. Libero fugiat alias nostrum omnis quasi beatae corporis.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit temporibus modi iste quo distinctio ratione dicta, voluptates possimus doloribus mollitia autem ex. Libero fugiat alias nostrum omnis quasi beatae corporis.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit temporibus modi iste quo distinctio ratione dicta, voluptates possimus doloribus mollitia autem ex. Libero fugiat alias nostrum omnis quasi beatae corporis.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit temporibus modi iste quo distinctio ratione dicta, voluptates possimus doloribus mollitia autem ex. Libero fugiat alias nostrum omnis quasi beatae corporis.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit temporibus modi iste quo distinctio ratione dicta, voluptates possimus doloribus mollitia autem ex. Libero fugiat alias nostrum omnis quasi beatae corporis.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit temporibus modi iste quo distinctio ratione dicta, voluptates possimus doloribus mollitia autem ex. Libero fugiat alias nostrum omnis quasi beatae corporis.
+    </p>
+
+</body>
+</html>
