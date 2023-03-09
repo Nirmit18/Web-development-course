@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="script.js"></script>
+<link rel="shortcut icon" href="images/globe.png" type="image/x-icon">
+<style>
+  .box{
+    display: grid;
+  background-color: DodgerBlue;
+  }
+  .box >div{
+    background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  
+  font-size: 30px;
+  }
+</style>
+</head>
+<body>
+ 
+<div class="box">
+  <div>1</div>
+  <div>3</div>
+  <div>2</div>
+  <div>2</div>
+  <div>2</div>
+  <div>2</div>
+</div>
+ 
+</body>
+</html>
