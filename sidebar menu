@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <title>menu</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+  <style>
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+    header{
+      position: fixed;
+      right:0;
+      top: 0;
+      left:0;
+      display: flex;
+      padding: 20px;
+      justify-content: space-between;
+      align-items: center;
+      background-color: aqua;
+    }
+    #lister{
+      position: fixed;
+      /* border: solid 2px black; */
+      width: 250px;
+      height: 100vh;
+      /* padding: 20px; */
+      top: 78px;
+      left:0px;
+      transform: translateX(-100%);
+      transition: .2s linear;
+      background-color: rgb(145, 145, 190);
+
+    }
+    #toggler{
+      height: 22px;
+      width: 22px;
+      /* background-color: beige; */
+      position: fixed;
+      top: 34px;
+      z-index: 51;
+      left: 10px;
+    }
+
+    #sidebar:checked ~ #lister{
+      transform: translateX(0);
+    }
+    input{
+      display: none;
+      z-index: 50;
+    }
+    header h1{
+      padding-left: 30px;
+    }
+    p{
+      margin-top: 100px;
+      padding: 35px;
+    }
+    .barso{
+      padding-bottom: 20px;
+      font-size: 2rem;
+      color: #fff;
+      border-bottom: #b4acac;
+      padding: 10px 61px;
+
+    }
+
+    .barso li{
+      padding-bottom: 10px;
+    }
+    .pp a{
+      padding-left: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>sidebar manu</h1>/
+    <div class="pp">
+      <a href="#">service</a>
+      <a href="#">service</a>
+      <a href="#">service</a>
+
+    </div>
+  </header>
+  <input type="checkbox" name="" id="sidebar">
+  <label for="sidebar" id="toggler" class="fas fa-bars"></label>
+  <div id="lister">
+    <ul class="barso">
+      <li>home</li>
+      <li>home</li>
+      <li>home</li>
+      <li>home</li>
+      <li>home</li>
+    </ul>
+  </div>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam saepe quam obcaecati omnis illo ipsum similique animi, ab quod velit, repellendus molestiae quo. Eos iste magnam illum corrupti mollitia. Pariatur.</p>
+
+</body>
+</html>
